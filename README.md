@@ -1,3 +1,4 @@
+![logo](https://github.com/Aryan1902/Aryan1902/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Aryan Kathpal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
